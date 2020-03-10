@@ -1,0 +1,28 @@
+Hello guys,
+ 
+Please find below the details for HTML/CSS Assignment - 2: Vegan Store WebApp.
+ 
+Demo Website: https://demoapi-43d03.firebaseapp.com/
+
+ 
+
+Landing Section Background Image: https://edyoda.s3.ap-south-1.amazonaws.com/public/landing-background.png
+
+ 
+
+Follow Us Section:
+Left Image URL: https://mobirise.com/extensions/organicamp/assets/images/19.jpg
+Right Background Image: https://edyoda.s3.ap-south-1.amazonaws.com/public/strawberry-white.png
+
+ 
+
+Vimeo Section:
+Video URL: https://player.vimeo.com/video/275412279
+
+ 
+
+Please attempt this on codepen. You have to finish this by 7th March 11:59 PM IST.
+
+ 
+
+All the best!!
